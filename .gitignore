@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# Compiles
+dist/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
